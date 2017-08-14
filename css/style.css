@@ -1,10 +1,22 @@
 body {
-	background-color: #000;
-	color: #fff;
-	font-family: 'Anton', sans-serif;
-	padding-top: 10%; 
+	font-family: sans-serif;
 }
 
-h3 {
-	font-size: 45px;
+.headeline {
+	padding-top: 60px; 
+}
+
+.headeline h1 {
+	font-weight: 700;
+	margin: 0;
+}
+
+.headeline h3 {
+	font-size: 20px;
+	font-weight: 100;
+	margin: 0;
+}
+
+.profile {
+	width: 100%;
 }
